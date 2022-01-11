@@ -40,6 +40,7 @@ The [GENESIS](https://github.com/sunnya97/sunnya97.github.io/blob/master/fsociet
 ### 5- About the scripts
 
 These scripts are written in python.
+
     - Create a virtual environment
     - Install requirements.txt
     - Execute scripts in order
