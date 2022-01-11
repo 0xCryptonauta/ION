@@ -51,4 +51,6 @@ This is done to get a pretty print in terminal (no more).
 
 ### 6- Data Analysis
 
+    **At the clawback snapshot time there were 3039 addresses hodling ION but 1207 addresses are hodling since genesis (airdropped addresses)**
+
 This will be approach once i get more time to play around this data.
