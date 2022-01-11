@@ -4,6 +4,7 @@ import bech32
 import json
 import os
 
+#os.system('cls||clear')        #<------ uncomment this line to clean terminal each run
 
 #---- Taken from Nostradamus411 github - https://github.com/Nostradamus411/ion-airdrop-code ---------
 #----------------------------------------------------------------------------------------------------
@@ -35,9 +36,10 @@ genesis_osmo_df = pd.DataFrame(columns=["Osmo Addr", "Ion Qty"])
 p100 = len(genesis_json)
 p1 = int(np.floor(p100/100))
 
-os.system('cls||clear')
+
 
 print("-"*120)
+print("\n\t\t\t\t\tExecuting script #1")
 print("\n\tConverting", p100, "Cosmos addresses to Osmo addresses.\n")
 
 
