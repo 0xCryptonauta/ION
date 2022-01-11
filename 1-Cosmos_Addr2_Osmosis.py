@@ -38,7 +38,7 @@ p1 = int(np.floor(p100/100))
 os.system('cls||clear')
 
 print("-"*120)
-print("\n\tConverting", p100, "Cosmos adresses to Osmo adresses.\n")
+print("\n\tConverting", p100, "Cosmos addresses to Osmo addresses.\n")
 
 
 i = 1
