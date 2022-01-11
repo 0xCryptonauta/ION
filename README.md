@@ -10,7 +10,7 @@ A mysterious airdrop was given to cosmos voters and sikka stakers and i found my
 
 ### 3- My approach
 
-The [GENESIS](https://github.com/sunnya97/sunnya97.github.io/blob/master/fsociety.zip) files were given by @sunnya97 but encrypted in a .zip file named fsociety.zip. The password (nazar_amulet)was discovered by someone i do not recall but from the ION Governance Working Group Telegram. @Nostradamus411 uploaded the [GENESIS FILES](https://github.com/Nostradamus411/ion-airdrop-code) to github. **This repo is used to get the ions.json file (cosmos genesis addresses)**
+The [GENESIS](https://github.com/sunnya97/sunnya97.github.io/blob/master/fsociety.zip) files were given by @sunnya97 but encrypted in a .zip file named fsociety.zip. The password (nazar_amulet) was discovered by someone i do not recall but from the ION Governance Working Group Telegram. @Nostradamus411 uploaded the [GENESIS FILES](https://github.com/Nostradamus411/ion-airdrop-code) to github. **This repo is used to get the ions.json file (cosmos genesis addresses)**
 
 6 months after genesis, a clawback was proposed/executed to claim all the ION that were in dust wallets. Once again, @Nostradamus411 uploaded a snapshot of osmosis state after the [CLAWBACK](https://github.com/Nostradamus411/ion-clawback-snapshot). **This repo is needed because of ion_clawback_snapshot.csv**
 
