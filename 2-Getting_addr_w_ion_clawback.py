@@ -9,7 +9,7 @@ import os
 
 #os.system('cls||clear')           #<------ uncomment this line to clean terminal each run
 
-ion_genesis_file = "Genesis_data/ion_clawback.csv"
+ion_genesis_file = "Original_data/ion_clawback_snapshot.csv"
 
 clawback_addr_df = pd.read_csv(ion_genesis_file)
 

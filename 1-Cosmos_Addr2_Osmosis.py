@@ -22,7 +22,7 @@ def atom_to_osmo(atom_addr):
     return osmo_addr
 
 
-genesis_file = 'Genesis_data/ions.json'   #Contains the cosmos address with the quantity of IONs given in genesis
+genesis_file = 'Original_data/ions.json'   #Contains the cosmos address with the quantity of IONs given in genesis
 
 #----------------------------------------------------------------------------------------------------
                                             
