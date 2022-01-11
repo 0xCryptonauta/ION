@@ -51,4 +51,4 @@ This is done to get a pretty print in terminal (no more).
 
 ### 6- Data Analysis
 
-This will be approach one i get more time to play around this data.
+This will be approach once i get more time to play around this data.
